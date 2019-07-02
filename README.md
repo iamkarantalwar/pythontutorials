@@ -12,8 +12,8 @@ to change window size giving background,font and color to the label.</b><br/>
 
 <b><kbd>second.py</kbd><br/>It contains how to make a button and how to show a message box on click of the button</b>
 <br/>
-<a href="TkinterFirst/first.py"><img src="screenshots/first2.png" height="200" width="500"></a><br/>
+<a href="TkinterFirst/second.py"><img src="screenshots/first2.png" height="200" width="500"></a><br/>
 
 <b><kbd>third.py</kbd><br/>This will demonstrate about how to get and set text in entry with click of the button.</b>
 <br/>
-<a href="TkinterFirst/first.py"><img src="screenshots/first3.png" height="200" width="500"></a><br/>
+<a href="TkinterFirst/third.py"><img src="screenshots/first3.png" height="200" width="500"></a><br/>
