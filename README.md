@@ -22,6 +22,5 @@ to change window size giving background,font and color to the label.</b><br/>
 <br/>
 
 
-<b style="color:red"><kbd>first.py</kbd><br/>It contains how to make windows and labels.It also contains some other stuffs like how
-to change window size giving background,font and color to the label.</b><br/>
+<b style="color:red"><kbd>first.py</kbd><br/>It contains how to set image on a label and how to use Option menu to restrict the inputs by the user.</b><br/>
 <a href="TkinterSecond/first.py"><img src="screenshots/scnd1.png" height="200" width="500"></a><br/>
