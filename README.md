@@ -17,3 +17,11 @@ to change window size giving background,font and color to the label.</b><br/>
 <b><kbd>third.py</kbd><br/>This will demonstrate about how to get and set text in entry with click of the button.</b>
 <br/>
 <a href="TkinterFirst/third.py"><img src="screenshots/first3.png" height="200" width="500"></a><br/>
+
+<h1>TkinterSecond</h1>
+<br/>
+
+
+<b style="color:red"><kbd>first.py</kbd><br/>It contains how to make windows and labels.It also contains some other stuffs like how
+to change window size giving background,font and color to the label.</b><br/>
+<a href="TkinterSecond/first.py"><img src="screenshots/scnd1.png" height="200" width="500"></a><br/>
