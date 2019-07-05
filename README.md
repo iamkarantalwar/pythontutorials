@@ -24,3 +24,10 @@ to change window size giving background,font and color to the label.</b><br/>
 
 <b style="color:red"><kbd>first.py</kbd><br/>It contains how to set image on a label and how to use Option menu to restrict the inputs by the user.</b><br/>
 <a href="TkinterSecond/first.py"><img src="screenshots/scnd1.png" height="200" width="500"></a><br/>
+
+<h1>TkinterInsert</h1>
+<br/>
+
+
+<b style="color:red"><kbd>first.py</kbd><br/>It contains how to insert data into the databse.</b><br/>
+<a href="TkinterInsert/"><img src="screenshots/insert.png" height="200" width="500"></a><br/>
