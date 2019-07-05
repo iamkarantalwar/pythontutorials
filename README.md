@@ -29,5 +29,5 @@ to change window size giving background,font and color to the label.</b><br/>
 <br/>
 
 
-<b style="color:red"><kbd>first.py</kbd><br/>It contains how to insert data into the databse.</b><br/>
-<a href="TkinterInsert/"><img src="screenshots/insert.png" height="200" width="500"></a><br/>
+<b style="color:red"><kbd>gui.py</kbd><br/>It contains how to insert data into the databse.</b><br/>
+<a href="TkinterInsert/gui.py"><img src="screenshots/insert1.png" height="200" width="500"></a><br/>
