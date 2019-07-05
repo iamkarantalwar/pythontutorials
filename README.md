@@ -30,9 +30,9 @@ to change window size giving background,font and color to the label.</b><br/>
 <img src="screenshots/connector.png" height="200" width="500">
 Suppose we have two cities and we want to join those cities then we need a route similarly python and mysql are two cities and connector works like an api which is road now we want to transport the luggage between them so we need the car here cursor will act like a car and luggage will be insert inside the cursor.So the luggage is the queries which you execute in the mysql.
 when you send the data from python to mysql you need to commit the query to confirm it like we make a phone call after the arrival of the luggage.
-<br/>
+<br/><br/>
 Here are the two links to download the connector.<br/>
-<b>Download(GUI):</b> https://dev.mysql.com/downloads/connector/python/
-<b>Download(CLI):</b> pip install mysql-connector-python
+<b>Download(GUI):</b> https://dev.mysql.com/downloads/connector/python/ <br/>
+<b>Download(CLI):</b> pip install mysql-connector-python<br/><br/>
 <b style="color:red"><kbd>hello.py</kbd><br/>It contains how to insert data into the databse.</b><br/>
 <a href="TkinterInsert/hello.py"><img src="screenshots/insert1.png" height="200" width="500"></a><br/>
